@@ -1,6 +1,6 @@
 package com.ndk.dsapractice.leetcode;
 
-// Problem link - https://leetcode.com/problems/3sum/
+// Problem link - https://leetcode.com/problems/3sum/description/
 
 import java.io.BufferedReader;
 import java.io.IOException;

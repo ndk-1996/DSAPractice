@@ -1,6 +1,6 @@
 package com.ndk.dsapractice.leetcode;
 
-// Problem link - https://leetcode.com/problems/put-marbles-in-bags/
+// Problem link - https://leetcode.com/problems/put-marbles-in-bags/description/
 
 // TODO: Try DP solution as well for practice purpose.
 

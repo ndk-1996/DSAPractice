@@ -1,6 +1,6 @@
 package com.ndk.dsapractice.leetcode;
 
-// Problem link - https://leetcode.com/problems/longest-substring-without-repeating-characters/
+// Problem link - https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 
 import java.io.BufferedReader;
 import java.io.IOException;
